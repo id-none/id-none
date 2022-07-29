@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Synyi AI
+- 🌱 I’m currently learning Go, Python, shell, linux···
+- 📫 How to reach me: wan.id.none@gmail.com
