@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Synyi**
 
-- 🌱 I’m currently learning **go，python，shell，linxu，java，k8s，docker**
+- 🌱 I’m currently learning **go，python，shell，linux，java，k8s，docker**
 
 - 📝 I regularly write articles on [https://id-none.github.io/](https://id-none.github.io/)
 
